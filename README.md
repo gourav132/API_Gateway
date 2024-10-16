@@ -3,7 +3,7 @@
 - link to [Flights And Search Service](https://github.com/sks8784/FlightsAndSearchService)
 - link to [Auth Service](https://github.com/sks8784/Auth_Service)
 - link to [Booking Service](https://github.com/sks8784/Booking_Service)
-- link to [Reminder Service](https://github.com/sks8784/Reminder_Service)
+- link to [Reminder Service](https://github.com/gourav132/Reminder_Service)
 
 
 FRONTEND - MIDDLE-END - BACKEND
