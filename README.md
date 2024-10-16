@@ -1,8 +1,8 @@
 ## Services linked
 
-- link to [Flights And Search Service](https://github.com/sks8784/FlightsAndSearchService)
-- link to [Auth Service](https://github.com/sks8784/Auth_Service)
-- link to [Booking Service](https://github.com/sks8784/Booking_Service)
+- link to [Flights And Search Service](https://github.com/gourav132/Flight_-_Search_Service)
+- link to [Auth Service](https://github.com/gourav132/Auth_Services)
+- link to [Booking Service](https://github.com/gourav132/Booking_Service)
 - link to [Reminder Service](https://github.com/gourav132/Reminder_Service)
 
 
